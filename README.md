@@ -21,4 +21,18 @@ A high-performance Python bot designed for Termux to generate direct download li
    pkg update && pkg upgrade -y
    pkg install python -y
    pip install -r requirements.txt
-   
+
+2. Run the Bot:
+
+   ```bash
+   python main.py
+
+3.Usage:
+
+​Send /start to the bot on Telegram.
+​Forward a file to the bot.
+​Copy the generated localhost link.
+​Paste the link into ADM/IDM and ensure threads are set to 8 or 16.
+
+👤 Credits
+Developer: Avinash Chauhan
